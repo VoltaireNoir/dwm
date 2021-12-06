@@ -1,12 +1,12 @@
 # Functional dwm
-#### A version of dwm that sucks-less
+#### A version of dwm that sucks-less for new users
 
 ![](https://github.com/VoltaireNoir/dwm/blob/main/screenshots/1.png)
 ![](https://github.com/VoltaireNoir/dwm/blob/main/screenshots/2.png)
 
 Suckless' [Dynamic Window Manager](https://dwm.suckless.org/) is a great piece of software in itself, however, due to the minimalist philosophy behind its development, dwm lacks so many important features that a tiling WM should have (for example: a system tray in status bar, abiltiy to move windows in the stack, ability to restart dwm, etc). The users are meant to add any functionality they like by applying the patches, but this can discourage a lot of new users as applying the patches can be a tedious process and sometimes even frustrating.
 
-This version of aims to provide a version of dwm that ships with sane defualts and all the important patches which mostly include ones that modify or add additional functionality and a couple that make the WM look clean and modern. This way even the unseasoned users can install dwm and have a usable setup ready in no time.
+This version of aims to provide a version of dwm that ships with sane defualts and all the important patches which mostly include ones that modify or add functionality and a couple that make the WM look clean and modern. This way even the unseasoned users can install dwm and have a usable setup ready in no time. This is especially great for those who want to try dwm without going through the process of customizing it yourself. Once you know that this WM is for you, you can then begin your journey of [creating your own version of dwm](https://dwm.suckless.org/customisation/patches_in_git/).
 
 ## Install
 - Clone Repo
