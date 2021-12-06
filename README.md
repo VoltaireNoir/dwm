@@ -11,13 +11,13 @@ This version of aims to provide a version of DWM that ships with all the importa
 - Compile DWM
 `cd .dwm && sudo make clean install`
 - Add `exec dwm` to your xinitrc or if you use a Display Manager (a login manager), create `dwm.desktop` file in `/usr/share/xsessions/` with the following contents: 
-```
-[Desktop Entry]
-Name=dwm
-Comment=Dynamic Window Manager
-Exec=dwm
-Type=Application
-```
+  ```
+  [Desktop Entry]
+  Name=dwm
+  Comment=Dynamic Window Manager
+  Exec=dwm
+  Type=Application
+  ```
 
 ## Configure
 - Edit `config.h` and save the changes.
