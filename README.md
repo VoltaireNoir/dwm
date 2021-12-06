@@ -46,7 +46,7 @@ This version of aims to provide a version of dwm that ships with all the importa
 - [Full Gaps](https://dwm.suckless.org/patches/fullgaps/)
   - Add gaps around the clients (can be controlled with keyboard shortcuts)
 - [Move Resize](https://dwm.suckless.org/patches/moveresize/)
-  - Move and resize floating windows
+  - Move and resize floating windows using keyboard shortcuts
 - [Move Stack](https://dwm.suckless.org/patches/movestack/)
   - Move tiled windows up or down in the stack (mod+shift+j/l)
 - [Per Tag](https://dwm.suckless.org/patches/pertag/)
