@@ -3,7 +3,7 @@
 
 Suckless' [Dynamic Window Manager](https://dwm.suckless.org/) is a great piece of software in itself, however, due to the minimalist philosophy behind its development, dwm lacks so many important features that a tiling WM should have (for example: a system tray in status bar, abiltiy to move windows in the stack, ability to restart dwm, etc). The users are meant to add any functionality they like by applying the patches, but this can discourage a lot of new users as applying the patches can be a tedious process and sometimes even frustrating.
 
-This version of aims to provide a version of dwm that ships with all the important patches which mostly include the ones that modify or add additional functionality and a couple that make the WM look clean and modern. This way the users can install dwm and have a usable setup ready in no time. It also comes with a configuration with sane defaults.
+This version of aims to provide a version of dwm that ships with all the important patches which mostly include ones that modify or add additional functionality and a couple that make the WM look clean and modern. This way the users can install dwm and have a usable setup ready in no time. It also comes with a configuration with sane defaults.
 
 ## Install
 - Clone Repo
